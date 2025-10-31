@@ -1,4 +1,4 @@
-project_id = "cogent-presence-472211-b0"
+project_id = "......."
 region     = "europe-west1"
 zone       = "europe-west1-b"
 
@@ -20,7 +20,7 @@ vm_name               = "kafka-uat-vm"
 vm_machine_type       = "e2-standard-4"
 vm_disk_size_gb       = 20
 vm_tags               = ["allow-ssh"]
-service_account_email = "675549339913-compute@developer.gserviceaccount.com"
+service_account_email = ".."
 
 gke_cluster_name           = "kafka-uat-gke-cluster"
 gke_machine_type           = "e2-standard-2"
